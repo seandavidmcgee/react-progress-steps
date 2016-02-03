@@ -25,11 +25,11 @@ You can disable the custom styling and use your own css.
   &-Dot {
     /* ... */
 
-    &-active {
+    &-activated {
       /* ... */
     }
 
-    &-full {
+    &-current {
       /* ... */
     }  
   }
@@ -37,7 +37,7 @@ You can disable the custom styling and use your own css.
   &-Line {
     /* ... */
 
-    &-active {
+    &-activated {
       /* ... */
     }
   }
