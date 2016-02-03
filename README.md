@@ -22,7 +22,7 @@ You can disable the custom styling and use your own css.
 
 ```scss
 .ProgressSteps {
-  &-Dot {
+  &-Step {
     /* ... */
 
     &-activated {
