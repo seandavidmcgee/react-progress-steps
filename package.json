@@ -1,6 +1,6 @@
 {
-  "name": "react-progress-steps",
-  "version": "0.0.9",
+  "name": "react-progress-steps-peacock",
+  "version": "0.0.10",
   "description": "react component",
   "main": "./lib/index.js",
   "repository": {
