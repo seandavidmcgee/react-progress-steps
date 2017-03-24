@@ -1,11 +1,11 @@
 {
   "name": "react-progress-steps",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "react component",
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/quentin-/react-progress-steps.git"
+    "url": "https://github.com/seandavidmcgee/react-progress-steps"
   },
   "homepage": "",
   "bugs": "/issues",
@@ -17,8 +17,8 @@
     "start": "rackt server"
   },
   "author": {
-    "name": "Quentin Cuvillier",
-    "email": "cuvillier.quentin@gmail.com"
+    "name": "Sean McGee",
+    "email": "sean.d.mcgee@gmail.com"
   },
   "license": "MIT",
   "devDependencies": {
